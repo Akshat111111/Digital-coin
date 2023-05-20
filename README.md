@@ -18,9 +18,6 @@ The aesthetics and user experience of the Digital Coin Tracker are further eleva
 
 Key features of the Digital Coin Tracker encompass real-time price updates, customizable watchlists, portfolio tracking, and price alerts. Users have the freedom to personalize their portfolios, monitor investments, and set alerts for specific price thresholds. Additionally, the application may integrate news updates, educational resources, and social features to foster an engaging and collaborative community.
 
-In essence, the Digital Coin Tracker, powered by ReactJS, Firebase, Chart.js, and Material-UI, is a sophisticated web application designed to empower cryptocurrency enthusiasts and investors. It amalgamates real-time data, captivating charts, and an intuitive interface to deliver a seamless and enriching experience in tracking and analyzing digital currencies.
-
-
 
 
 Built with
