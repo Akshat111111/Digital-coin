@@ -31,3 +31,9 @@ Firebase        https://firebase.google.com/
 
 
 Reference-Roadsidecoder
+
+
+## Preview
+
+![image](https://github.com/harshit-sharmaaa/Digital-coin/assets/121124691/e020b8fa-58cb-4525-9677-eb130f806052)
+![image](https://github.com/harshit-sharmaaa/Digital-coin/assets/121124691/cce05b02-8b7f-4734-a34f-f005c8cc292c)
